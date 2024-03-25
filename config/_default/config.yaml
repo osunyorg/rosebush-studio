@@ -10,3 +10,5 @@ params:
   logo:
     header: "/assets/images/rosebush.svg"
     footer: "/assets/images/clemence.svg"
+  breadcrumb:
+    position: after-hero
