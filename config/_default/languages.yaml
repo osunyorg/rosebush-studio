@@ -8,6 +8,10 @@ fr:
   languageName: Français
   params:
     social:
+      instagram: >-
+        http://www.instagram.com/rosebush_studio/
+      facebook: >-
+        https://www.facebook.com/RosebushStudio
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
