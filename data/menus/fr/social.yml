@@ -5,4 +5,8 @@ items:
   target: http://www.houzz.fr/pro/rosebushstudio
   kind: url
   children: []
+- title: Pinterest
+  target: http://www.pinterest.com/RosebushStudio
+  kind: url
+  children: []
 
