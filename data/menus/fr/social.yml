@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Houzz
+  target: http://www.houzz.fr/pro/rosebushstudio
+  kind: url
+  children: []
 
