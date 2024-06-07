@@ -16,7 +16,7 @@ fr:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
