@@ -7,11 +7,19 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      instagram: >-
-        http://www.instagram.com/rosebush_studio/
-      facebook: >-
-        https://www.facebook.com/RosebushStudio
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            RosebushStudio
+          value: >-
+            https://www.facebook.com/RosebushStudio
+        instagram:
+          label: >-
+            rosebush_studio
+          value: >-
+            https://instagram.com/rosebush_studio
+
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
