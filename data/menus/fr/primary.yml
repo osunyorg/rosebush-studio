@@ -5,15 +5,18 @@ items:
   target: "/projets/"
   kind: page
   children: []
+  path: "/projects"
   file: content/fr/projects/_index.html
 - title: Engagements
   target: "/engagements/"
   kind: page
   children: []
+  path: "/pages/engagements"
   file: content/fr/pages/engagements/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
   children: []
+  path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
