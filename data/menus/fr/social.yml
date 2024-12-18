@@ -4,9 +4,11 @@ items:
 - title: Houzz
   target: http://www.houzz.fr/pro/rosebushstudio
   kind: url
+  new_tab: true
   children: []
 - title: Pinterest
   target: http://www.pinterest.com/RosebushStudio
   kind: url
+  new_tab: true
   children: []
 
