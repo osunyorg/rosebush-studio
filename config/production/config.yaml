@@ -2,6 +2,11 @@
 
 baseURL: https://studio.rosebush.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: b2294c9e-6d58-4c89-945e-06fe9ee035fb
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
