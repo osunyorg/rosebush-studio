@@ -25,8 +25,8 @@ fr:
     pages_categories: /:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
+    posts: /journal/:year-:month-:day-:slug/
+    posts_categories: /journal/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
   taxonomies:
