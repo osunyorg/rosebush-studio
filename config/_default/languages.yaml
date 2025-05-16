@@ -29,6 +29,9 @@ fr:
     posts_categories: /journal/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/journal/
   taxonomies:
     administrator: administrators
     author: authors
