@@ -23,8 +23,8 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
+    projects: /portfolio/:year-:slug/
+    projects_categories: /portfolio/:slug/
     posts: /journal/:year-:month-:day-:slug/
     posts_categories: /journal/:slug/
     organizations: /organisations/:slug/
