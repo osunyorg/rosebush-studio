@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Projets
+- title: Portfolio
   target: "/portfolio/"
   kind: page
   new_tab: false
