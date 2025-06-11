@@ -21,17 +21,6 @@ fr:
           value: >-
             https://instagram.com/rosebush_studio
 
-  permalinks:
-    pages_categories: /:slug/
-    projects: /portfolio/:year-:slug/
-    projects_categories: /portfolio/:slug/
-    posts: /journal/:year-:month-:day-:slug/
-    posts_categories: /journal/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/journal/
   taxonomies:
     administrator: administrators
     author: authors
