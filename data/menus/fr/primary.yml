@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Portfolio
-  target: "/portfolio/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: Journal
   target: "/journal/"
   kind: page
@@ -15,6 +8,13 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Portfolio
+  target: "/portfolio/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Engagements
   target: "/engagements/"
   kind: page
