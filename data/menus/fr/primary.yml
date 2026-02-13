@@ -2,31 +2,39 @@
 title: Menu principal
 items:
 - title: Journal
+  slug: journal
   target: "/journal/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Portfolio
+  slug: portfolio
   target: "/portfolio/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Engagements
+  slug: engagements
   target: "/engagements/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/engagements"
   file: content/fr/pages/engagements/_index.html
 - title: Contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 

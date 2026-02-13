@@ -2,13 +2,17 @@
 title: Liens sociaux
 items:
 - title: Houzz
+  slug: houzz
   target: http://www.houzz.fr/pro/rosebushstudio
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Pinterest
+  slug: pinterest
   target: http://www.pinterest.com/RosebushStudio
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
