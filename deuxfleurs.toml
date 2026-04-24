@@ -15,46 +15,46 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/portfolio/"
 
 [[redirects]]
-from = "/projets/edition-dobjets/"
+from = "/projets/edition-dobjets/index.html"
 to = "/portfolio/edition-dobjets/"
 
 [[redirects]]
-from = "/projets/recherche/"
+from = "/projets/recherche/index.html"
 to = "/portfolio/recherche/"
 
 [[redirects]]
-from = "/journal/2025-06-15-ite-isolation-thermique-interieure-a-la-grande-coco-6-pistes/"
+from = "/journal/2025-06-15-ite-isolation-thermique-interieure-a-la-grande-coco-6-pistes/index.html"
 to = "/journal/2022-04-25-ite-isolation-thermique-interieure-a-la-grande-coco-6-pistes/"
 
 [[redirects]]
-from = "/journal/2025-06-25-campus-versailles-4/"
+from = "/journal/2025-06-25-campus-versailles-4/index.html"
 to = "/journal/2023-11-17-campus-versailles-4/"
 
 [[redirects]]
-from = "/projets/realisation/"
+from = "/projets/realisation/index.html"
 to = "/portfolio/realisation/"
 
 [[redirects]]
-from = "/portfolio/2023-atelier-rodin/"
+from = "/portfolio/2023-atelier-rodin/index.html"
 to = "/portfolio/2024-atelier-rodin/"
 
 [[redirects]]
-from = "/projets/2023-atelier-rodin/"
+from = "/projets/2023-atelier-rodin/index.html"
 to = "/portfolio/2024-atelier-rodin/"
 
 [[redirects]]
-from = "/projets/2021-appartement-paris-xv/"
+from = "/projets/2021-appartement-paris-xv/index.html"
 to = "/portfolio/2021-appartement-paris-xv/"
 
 [[redirects]]
-from = "/projets/2020-loft-pelleport-paris-xx/"
+from = "/projets/2020-loft-pelleport-paris-xx/index.html"
 to = "/portfolio/2020-loft-pelleport-paris-xx/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/journal/"
 
